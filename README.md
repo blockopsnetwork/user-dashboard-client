@@ -46,8 +46,6 @@
 ![parachain-flow-1](./assets/img/Parachain%20flow01.jpg)
 ![parachain-flow-2](./assets/img/Parachain%20flow02.jpg)
 ![parachain-flow-3](./assets/img/Parachain%20flow03.jpg)
-![parachain-flow-4](./assets/img/Parachain%20flow04.jpg)
-![parachain-flow-4a](./assets/img/providers.png)
 ![parachain-flow-5](./assets/img/Parachain%20flow05.jpg)
 ![parachain-flow-6](./assets/img/Parachain%20flow06.jpg)
 ![parachain-flow-7](./assets/img/Parachain%20flow07.jpg)
